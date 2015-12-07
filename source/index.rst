@@ -8,6 +8,7 @@ Contents:
 
    sphinx
    go
+   git
 
 Indices and tables
 ==================
