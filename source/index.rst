@@ -9,6 +9,7 @@ Contents:
    sphinx
    go
    git
+   js
 
 Indices and tables
 ==================
